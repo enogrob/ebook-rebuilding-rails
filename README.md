@@ -16,7 +16,7 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-[ ] 1. Zero to “It Works!”
+[~] 1. Zero to “It Works!”
 [ ] 2. Your First Controller
 [ ] 3. Rails Automatic Loading
 [ ] 4. Rendering Views
@@ -24,5 +24,5 @@ Learn everything you need to about the subject of this `eBook` project.
 [ ] 6. Request, Response
 [ ] 7. The Littlest ORM
 [ ] 8. Rack Middleware
-[ ] 9. Real Routing 
+[ ] 9. Real Routing
 ```
