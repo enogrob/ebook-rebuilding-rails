@@ -16,7 +16,7 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-[~] 1. Zero to “It Works!”
+[x] 1. Zero to “It Works!”
 [ ] 2. Your First Controller
 [ ] 3. Rails Automatic Loading
 [ ] 4. Rendering Views

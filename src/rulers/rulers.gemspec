@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Roberto Nogueira"]
   spec.email         = ["enogrob@gmail.com"]
 
-  spec.summary       = %q{A Rack-based Web Framework}
-  spec.description   = %q{A Rack-based Web Framework}
-  spec.homepage      = ""
+  spec.summary       = %q{A rack-based web framework}
+  spec.description   = %q{A rack-based web framework for rebuilding rails}
+  spec.homepage      = "http://www.gumroad.com"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
@@ -33,5 +33,7 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.16"
   spec.add_development_dependency "rake", "~> 10.0"
-  spec.add_development_dependency "rack"
+  spec.add_development_dependency "rack", "~> 0"
+  spec.add_development_dependency "rack-test"
+  spec.add_development_dependency "test-unit"
 end
