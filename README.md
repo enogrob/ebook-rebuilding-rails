@@ -28,7 +28,7 @@ Learn everything you need to about the subject of this `eBook` project.
 [x] Making Rulers Use Rack 18 
 [x] Review 19 
 [x] In Rails 20 
-[ ] Exercises 23 
+[x] Exercises 23 
 [ ] Exercise One: Reloading Rulers 23 
 [ ] Exercise Two: Your Library’s Library 24 
 [ ] Exercise Three: Test Early, Test Often 25 
